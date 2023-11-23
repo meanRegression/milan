@@ -1,0 +1,736 @@
+
+    * {
+      
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0; 
+      font-family: sans-serif; 
+    }
+      
+    body {
+      background: #0C0306FF;
+      -ms-overflow-style: none;  /* Internet Explorer 10+ */   
+      scrollbar-width: none;  /* Firefox */
+    }
+
+    ::-webkit-scrollbar { 
+      display: none;  /* Safari and Chrome */
+    }
+
+    
+  
+    .Rectangle_2 {  
+      position: absolute;
+      left: 44.1042345276873% ;
+      top: 29.095674967234597%  ;
+      z-index: 0;   
+      background-color: #1B1F22FF;    
+      border-radius: 15px ;           
+      --ratioConstant: 0.8009259259259259;
+      --widthPercentage: 14.071661237785015%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Form_26AS {  
+      position: absolute;
+      left: 46.77524429967427% ;
+      top: 33.28964613368283%  ;
+      z-index: 1;   
+      background-image: linear-gradient(90deg, #0E45AFFF 0%, #3574EEFF 0.009999999747378752%, #F78CE6FF 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;   
+      font-size: 24;
+      font-weight: 500;
+      line-height: AUTO;  
+      text-align: CENTER;
+      font-family: Inter;            
+      width: 136px;  
+      }
+      
+    .Welcome {  
+      position: absolute;
+      left: 14.397394136807817% ;
+      top: 7.077326343381389%  ;
+      z-index: 2;   
+      color: #E8E7ECFF;   
+      font-size: 40;
+      font-weight: 400;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    .Features_rectangle {  
+      position: absolute;
+      left: 40.71661237785016% ;
+      top: 66.44823066841415%  ;
+      z-index: 7;   
+      background-color: #D3CFCFFF;    
+      border-radius: 2px ;           
+      --ratioConstant: 0.2826086956521739;
+      --widthPercentage: 5.993485342019544%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Features {  
+      position: absolute;
+      left: 64.49511400651465% ;
+      top: 57.66710353866317%  ;
+      z-index: 8;   
+      color: #000000FF;   
+      font-size: 20;
+      font-weight: 400;
+      line-height: AUTO;  
+      text-align: CENTER;
+      font-family: Italianno;    
+      }
+      
+    .Rectangle_4 {  
+      position: absolute;
+      left: 33.159609120521175% ;
+      top: 13.630406290956747%  ;
+      z-index: 9;   
+      background-color: #D3CFCFFF;    
+      border-radius: 2px ;           
+      --ratioConstant: 0.22807017543859648;
+      --widthPercentage: 7.42671009771987%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .For_GST {  
+      position: absolute;
+      left: 33.355048859934854% ;
+      top: 13.499344692005241%  ;
+      z-index: 10;   
+      color: #5D1125FF;   
+      font-size: 20;
+      font-weight: 400;
+      line-height: AUTO;  
+      text-align: CENTER;
+      font-family: Italianno;    
+      }
+      
+    .txt3 {  
+      position: absolute;
+      left: 50.55374592833877% ;
+      top: 71.82175622542594%  ;
+      z-index: 11;   
+      color: #D8D3D3FF;   
+      font-size: 14;
+      font-weight: 400;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    .txt2 {  
+      position: absolute;
+      left: 50.55374592833877% ;
+      top: 75.22935779816513%  ;
+      z-index: 12;   
+      color: #D8D3D3FF;   
+      font-size: 14;
+      font-weight: 400;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    .txt1 {  
+      position: absolute;
+      left: 50.55374592833877% ;
+      top: 78.76802096985583%  ;
+      z-index: 13;   
+      color: #D8D3D3FF;   
+      font-size: 14;
+      font-weight: 400;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    .Navbar {  
+      position: absolute;
+      left: -0.06514657980456026% ;
+      top: 11.795543905635649%  ;
+      z-index: 14;   
+      background-color: #191C1FFF;    
+      border-radius: 20px ;           
+      --ratioConstant: 4.0397727272727275;
+      --widthPercentage: 11.465798045602606%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Navbar {  
+      position: absolute;
+      left: -0.06514657980456026% ;
+      top: 11.795543905635649%  ;
+      z-index: 15;   
+      background-color: #191C1FFF;    
+      border-radius: 20px ;           
+      --ratioConstant: 4.0397727272727275;
+      --widthPercentage: 11.465798045602606%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .By_Milan {  
+      position: absolute;
+      left: 63.51791530944625% ;
+      top: 92.39842726081258%  ;
+      z-index: 16;   
+      color: #F364FFFF;   
+      font-size: 24;
+      font-weight: 400;
+      line-height: AUTO;  
+      text-align: CENTER;
+      font-family: Italianno;    
+      }
+      
+    .Rectangle_6 {  
+      position: absolute;
+      left: 0% ;
+      top: 0%  ;
+      z-index: 17;   
+      background-color: #1B1F22FF;    
+      border-radius: 0px ;           
+      --ratioConstant: 0.015635179153094463;
+      --widthPercentage: 100%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    svg.Vector_9 {  
+      position: absolute;
+      left: 0.9259259351301659% ;
+      top: 24.445526003056393% ;
+      z-index: 18;   
+      fill: #1545EFFF;
+                   
+      width: 1.8241042345276872%;  
+      }
+      
+    .Rectangle_3 {  
+      position: absolute;
+      left: 67.55700325732899% ;
+      top: 29.750982961992133%  ;
+      z-index: 19;   
+      background-color: #1B1F22FF;    
+      border-radius: 15px ;           
+      --ratioConstant: 0.8009259259259259;
+      --widthPercentage: 14.071661237785015%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .HSN_Cleaner {  
+      position: absolute;
+      left: 69.25081433224756% ;
+      top: 33.68283093053736%  ;
+      z-index: 20;   
+      background-image: linear-gradient(90deg, #3574EEFF 0%, #F78CE6FF 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;   
+      font-size: 24;
+      font-weight: 500;
+      line-height: AUTO;  
+      text-align: CENTER;
+      font-family: Inter;    
+      }
+      
+    svg.Vector_8 {  
+      position: absolute;
+      left: 49.31596091205211% ;
+      top: 40.498030076333144% ;
+      z-index: 21;   
+      fill: #1AEC7BFF;
+                   
+      width: 3.6482084690553744%;  
+      }
+      
+    svg.Vector_7 {  
+      position: absolute;
+      left: 50.0567010637215% ;
+      top: 43.59933995638106% ;
+      z-index: 22;   
+      fill: #1AEC7BFF;
+                   
+      width: 2.214983713355049%;  
+      }
+      
+    svg.Vector_6 {  
+      position: absolute;
+      left: 73.33333068251221% ;
+      top: 45.78975412511263% ;
+      z-index: 23;   
+      fill: #1545EFFF;
+                   
+      width: 1.6938110749185669%;  
+      }
+      
+    svg.Vector_5 {  
+      position: absolute;
+      left: 73.14814962082656% ;
+      top: 42.323589199961084% ;
+      z-index: 24;   
+      fill: #1545EFFF;
+                   
+      width: 2.6058631921824107%;  
+      }
+      
+    .Rectangle_1 {  
+      position: absolute;
+      left: 22.80130293159609% ;
+      top: 28.57142857142857%  ;
+      z-index: 25;   
+      background-color: #1B1F22FF;    
+      border-radius: 15px ;           
+      --ratioConstant: 0.8009259259259259;
+      --widthPercentage: 14.071661237785015%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Balance_Sheet {  
+      position: absolute;
+      left: 23.973941368078176% ;
+      top: 32.7653997378768%  ;
+      z-index: 26;   
+      background-image: linear-gradient(90deg, #3574EEFF 0%, #F886E6FF 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;   
+      font-size: 24;
+      font-weight: 500;
+      line-height: AUTO;  
+      text-align: CENTER;
+      font-family: Inter;    
+      }
+      
+    svg.Vector_4 {  
+      position: absolute;
+      left: 1.0185185162174586% ;
+      top: 43.60059985639539% ;
+      z-index: 27;   
+      fill: #1545EFFF;
+                   
+      width: 1.8241042345276872%;  
+      }
+      
+    .Commit {  
+      position: absolute;
+      left: 4.495114006514658% ;
+      top: 44.03669724770642%  ;
+      z-index: 28;   
+      color: #E0DCDCFF;   
+      font-size: 14;
+      font-weight: 600;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    .Feedback {  
+      position: absolute;
+      left: 4.169381107491857% ;
+      top: 53.866317169069454%  ;
+      z-index: 29;   
+      color: #E0DCDCFF;   
+      font-size: 14;
+      font-weight: 600;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    .Setting {  
+      position: absolute;
+      left: 4.495114006514658% ;
+      top: 99.60681520314547%  ;
+      z-index: 30;   
+      color: #E0DCDCFF;   
+      font-size: 14;
+      font-weight: 600;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    svg.Vector_3 {  
+      position: absolute;
+      left: 0.9259259351301659% ;
+      top: 34.661565258181106% ;
+      z-index: 31;   
+      fill: #1545EFFF;
+                   
+      width: 1.8241042345276872%;  
+      }
+      
+    .File {  
+      position: absolute;
+      left: 4.495114006514658% ;
+      top: 35.51769331585845%  ;
+      z-index: 32;   
+      color: #E0DCDCFF;   
+      font-size: 14;
+      font-weight: 600;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    .Home {  
+      position: absolute;
+      left: 3.1270358306188926% ;
+      top: 17.824377457404978%  ;
+      z-index: 33;   
+      color: #E0DCDCFF;   
+      font-size: 14;
+      font-weight: 600;
+      line-height: AUTO;  
+      text-align: LEFT;
+      font-family: Inter;    
+      }
+      
+    svg._Vector_2 {  
+      position: absolute;
+      left: 90.3703700758347% ;
+      top: 8.02688848612974% ;
+      z-index: 34;   
+      fill: #FFFFFFFF;
+                   
+      width: 2.019543973941368%;  
+      }
+      
+    .Ellipse_4 {  
+      position: absolute;
+      left: 94.07166123778502% ;
+      top: 0.5242463958060288%  ;
+      z-index: 35;   
+      background-color: #7368F7FF;    
+      border-radius: 50%;           
+      --ratioConstant: 1;
+      --widthPercentage: 1.0423452768729642%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Ellipse_3 {  
+      position: absolute;
+      left: 91.85667752442997% ;
+      top: 0.5242463958060288%  ;
+      z-index: 36;   
+      background-color: #68F77FFF;    
+      border-radius: 50%;           
+      --ratioConstant: 1;
+      --widthPercentage: 1.0423452768729642%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Ellipse_2 {  
+      position: absolute;
+      left: 89.64169381107492% ;
+      top: 0.5242463958060288%  ;
+      z-index: 37;   
+      background-color: #F76868FF;    
+      border-radius: 50%;           
+      --ratioConstant: 1;
+      --widthPercentage: 1.0423452768729642%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .DMARKS_App {  
+      position: absolute;
+      left: 2.4104234527687294% ;
+      top: 0.39318479685452157%  ;
+      z-index: 38;   
+      color: #D4D4D4FF;   
+      font-size: 14;
+      font-weight: 600;
+      line-height: AUTO;  
+      text-align: CENTER;
+      font-family: Inter;    
+      }
+      
+    svg.Vector_1 {  
+      position: absolute;
+      left: 11.388888778438009% ;
+      top: 25.722530659966825% ;
+      z-index: 39;   
+      fill: #FFFFFFFF;
+                   
+      width: 0.4560260586319218%;  
+      }
+      
+    .Hover_Rectangle {  
+      position: absolute;
+      left: 0% ;
+      top: 16.3826998689384%  ;
+      z-index: 40;   
+      background-color: #FFFFFF0A;    
+      border-radius: 0px 12px 12px 0px;           
+      --ratioConstant: 0.2483221476510067;
+      --widthPercentage: 9.706840390879478%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Ellipse_12 {  
+      position: absolute;
+      left: 66.25407166123779% ;
+      top: 4.980340760157274%  ;
+      z-index: 41;   
+      background-color: #5A4F4FFF;    
+      border-radius: 50%;           
+      --ratioConstant: 1;
+      --widthPercentage: 2.0846905537459284%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    svg.Vector_30 {  
+      position: absolute;
+      left: 96.29629924165309% ;
+      top: 35.93857191493283% ;
+      z-index: 42;   
+      fill: #FFFDFDFF;
+                   
+      width: 1.8241042345276872%;  
+      }
+      
+    svg.Vector_29 {  
+      position: absolute;
+      left: 57.61238818836523% ;
+      top: 29.00939381450688% ;
+      z-index: 43;   
+      fill: #1545EFFF;
+                   
+      width: 0.5211726384364821%;  
+      }
+      
+    svg.Vector_28 {  
+      position: absolute;
+      left: 57.31927629402483% ;
+      top: 29.039501425166897% ;
+      z-index: 44;   
+      fill: #1545EFFF;
+                   
+      width: 1.1726384364820848%;  
+      }
+      
+    svg.Vector_27 {  
+      position: absolute;
+      left: 57.48029379580619% ;
+      top: 29.305210338507536% ;
+      z-index: 45;   
+      fill: #1545EFFF;
+                   
+      width: 0.7166123778501629%;  
+      }
+      
+    svg.Vector_26 {  
+      position: absolute;
+      left: 55.55260474984731% ;
+      top: 28.775138405016182% ;
+      z-index: 46;   
+      fill: #1545EFFF;
+                   
+      width: 0.4560260586319218%;  
+      }
+      
+    svg.Vector_25 {  
+      position: absolute;
+      left: 55.519287904621336% ;
+      top: 29.305210338507536% ;
+      z-index: 47;   
+      fill: #1545EFFF;
+                   
+      width: 0.7166123778501629%;  
+      }
+      
+    svg.Vector_24 {  
+      position: absolute;
+      left: 55.17915309446254% ;
+      top: 29.039501425166897% ;
+      z-index: 48;   
+      fill: #1545EFFF;
+                   
+      width: 1.1726384364820848%;  
+      }
+      
+    svg.Vector_23 {  
+      position: absolute;
+      left: 56.552050463151474% ;
+      top: 31.4787998424445% ;
+      z-index: 49;   
+      fill: #1545EFFF;
+                   
+      width: 0.5863192182410424%;  
+      }
+      
+    svg.Vector_22 {  
+      position: absolute;
+      left: 56.30295942971295% ;
+      top: 31.202259788663174% ;
+      z-index: 50;   
+      fill: #1545EFFF;
+                   
+      width: 1.1074918566775245%;  
+      }
+      
+    svg.Vector_21 {  
+      position: absolute;
+      left: 56.771562309140876% ;
+      top: 30.210738475794557% ;
+      z-index: 51;   
+      fill: #1545EFFF;
+                   
+      width: 0.13029315960912052%;  
+      }
+      
+    svg.Vector_20 {  
+      position: absolute;
+      left: 56.38217789342427% ;
+      top: 29.15547822124836% ;
+      z-index: 52;   
+      fill: #1545EFFF;
+                   
+      width: 0.9120521172638436%;  
+      }
+      
+    svg.Vector_19 {  
+      position: absolute;
+      left: 55.86238500737989% ;
+      top: 30.47756730025905% ;
+      z-index: 53;   
+      fill: #1545EFFF;
+                   
+      width: 1.9543973941368076%;  
+      }
+      
+    svg.Vector_18 {  
+      position: absolute;
+      left: 56.564559688008956% ;
+      top: 28.62576025966579% ;
+      z-index: 54;   
+      fill: #1545EFFF;
+                   
+      width: 0.4560260586319218%;  
+      }
+      
+    svg.Vector_17 {  
+      position: absolute;
+      left: 1.2037037405206636% ;
+      top: 98.87668114658422% ;
+      z-index: 55;   
+      fill: #1545EFFF;
+                   
+      width: 1.8241042345276872%;  
+      }
+      
+    svg.Vector_16 {  
+      position: absolute;
+      left: 1.1756790111429918% ;
+      top: 54.646335266833226% ;
+      z-index: 56;   
+      fill: #1545EFFF;
+                   
+      width: 0.39087947882736157%;  
+      }
+      
+    svg.Vector_15 {  
+      position: absolute;
+      left: 1.6434729759390267% ;
+      top: 52.74569410171609% ;
+      z-index: 57;   
+      fill: #1545EFFF;
+                   
+      width: 1.6286644951140066%;  
+      }
+      
+    svg.Vector_104 {  
+      position: absolute;
+      left: 1.0185185162174586% ;
+      top: 52.14088609927916% ;
+      z-index: 58;   
+      fill: #CE24EAFF;
+                   
+      width: 0.8469055374592834%;  
+      }
+      
+    svg.Vector_103 {  
+      position: absolute;
+      left: 2.66089150494007% ;
+      top: 51.80991636503727% ;
+      z-index: 59;   
+      fill: #CE24EAFF;
+                   
+      width: 0.5863192182410424%;  
+      }
+      
+    svg.Vector_102 {  
+      position: absolute;
+      left: 95.64814962082654% ;
+      top: 57.67401499017038% ;
+      z-index: 60;   
+      fill: #1545EFFF;
+                   
+      width: 2.019543973941368%;  
+      }
+      
+    svg.Vector_101 {  
+      position: absolute;
+      left: 95.87003130089576% ;
+      top: 56.81719098772321% ;
+      z-index: 61;   
+      fill: #1545EFFF;
+                   
+      width: 2.019543973941368%;  
+      }
+      
+    .Ellipse_13 {  
+      position: absolute;
+      left: 12.703583061889251% ;
+      top: 59.37090432503277%  ;
+      z-index: 62;   
+      background-color: #B7FAA6FF;    
+      border-radius: 50%;           
+      --ratioConstant: 1;
+      --widthPercentage: 22.149837133550488%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Rectangle_7 {  
+      position: absolute;
+      left: 94.46254071661238% ;
+      top: 72.608125819135%  ;
+      z-index: 63;   
+      background-color: #F16868FF;    
+      border-radius: 0px ;           
+      --ratioConstant: 1.1294117647058823;
+      --widthPercentage: 5.537459283387622%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+    .Rectangle_8 {  
+      position: absolute;
+      left: 44.951140065146575% ;
+      top: 0%  ;
+      z-index: 64;   
+      background-color: #D9D9D9FF;    
+      border-radius: 0px ;           
+      --ratioConstant: 4.296296296296297;
+      --widthPercentage: 1.758957654723127%;
+      height: calc(var(--ratioConstant) * var(--widthPercentage) * 1.7786790266512167) ;
+      width: var(--widthPercentage);  
+      }
+      
+
+  
